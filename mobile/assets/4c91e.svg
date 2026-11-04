@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 28 28">
+  <!-- Generator: Adobe Illustrator 30.8.2, SVG Export Plug-In . SVG Version: 2.1.4 Build 7)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st1 {
+        fill: #271526;
+      }
+    </style>
+  </defs>
+  <g id="Nav_Icon">
+    <rect class="st0" width="28" height="28"/>
+    <path id="Processional_Services" class="st1" d="M11.25,8.84h5.5v2.06h2.75v3.44h-11v-3.44h2.75v-2.06ZM8.5,15.03h4.12v1.38h2.75v-1.38h4.12v4.12h-11v-4.12ZM15.72,9.88h-3.44v1.03h3.44v-1.03Z"/>
+  </g>
+</svg>
