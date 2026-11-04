@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 28 28">
+  <!-- Generator: Adobe Illustrator 30.8.2, SVG Export Plug-In . SVG Version: 2.1.4 Build 7)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st1 {
+        fill: #271526;
+      }
+    </style>
+  </defs>
+  <g id="Nav_Icon">
+    <rect class="st0" width="28" height="28"/>
+    <path id="Thinker_AI" class="st1" d="M16.75,9.88l.69-1.38.69,1.38,1.38.69-1.38.69-.69,1.38-.69-1.38-1.38-.69,1.38-.69ZM11.25,12.62l1.38-2.75,1.38,2.75,2.75,1.38-2.75,1.38-1.38,2.75-1.38-2.75-2.75-1.38,2.75-1.38ZM17.44,15.38l.69,1.38,1.38.69-1.38.69-.69,1.38-.69-1.38-1.38-.69,1.38-.69.69-1.38Z"/>
+  </g>
+</svg>

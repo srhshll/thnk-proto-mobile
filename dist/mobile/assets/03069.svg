@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 28 28">
+  <!-- Generator: Adobe Illustrator 30.8.2, SVG Export Plug-In . SVG Version: 2.1.4 Build 7)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st1 {
+        fill: #271526;
+      }
+    </style>
+  </defs>
+  <g id="Nav_Icon">
+    <rect class="st0" width="28" height="28"/>
+    <path id="Memberships" class="st1" d="M10.17,11.78c0-.59.23-1.15.65-1.57.42-.42.98-.65,1.57-.65s1.15.23,1.57.65c.42.42.65.98.65,1.57s-.23,1.15-.65,1.57c-.42.42-.98.65-1.57.65s-1.15-.23-1.57-.65-.65-.98-.65-1.57ZM15.16,14.83l1.11,3.61h-7.77l1.11-3.61h5.55ZM19.21,12.63l-2.22,2.22-.3.3-.3-.3-1.11-1.11-.3-.3.59-.59.3.3.82.82,1.93-1.93.3-.3.59.59-.3.3h0Z"/>
+  </g>
+</svg>

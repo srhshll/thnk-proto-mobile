@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 28 28">
+  <!-- Generator: Adobe Illustrator 30.8.2, SVG Export Plug-In . SVG Version: 2.1.4 Build 7)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st1 {
+        fill: #271526;
+      }
+    </style>
+  </defs>
+  <g id="Nav_Icon">
+    <rect class="st0" width="28" height="28"/>
+    <path id="Landing_Pages" class="st1" d="M19.5,9.19h-11v9.62h11v-9.62ZM18.12,10.56v1.38h-8.25v-1.38h8.25ZM9.88,13.31h1.38v4.12h-1.38v-4.12ZM18.12,13.31v4.12h-5.5v-4.12h5.5Z"/>
+  </g>
+</svg>
