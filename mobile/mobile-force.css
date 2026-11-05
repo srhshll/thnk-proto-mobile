@@ -320,10 +320,12 @@ html, body {
 .mobile-panel .highlight {
   display: flex;
   grid-column: auto;
-  width: calc(100% + 32px);
+  width: 100%;
   height: auto;
   min-height: 160px;
-  margin: 12px -16px -32px;
+  margin: 12px 0 0;
+  border-radius: 12px;
+  overflow: hidden;
 }
 
 .mobile-panel .highlight--plus {
